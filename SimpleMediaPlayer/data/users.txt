@@ -1,0 +1,5 @@
+﻿admin#123456#..\..\data\usersSongs\admin.txt
+amber#666666#..\..\data\usersSongs\admin.txt
+波比#kkkk#..\..\data\usersSongs\波比.txt
+5#56#..\..\data\usersSongs\5.txt
+1#1#..\..\data\usersSongs\1.txt

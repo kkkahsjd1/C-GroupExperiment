@@ -1,0 +1,194 @@
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Form1.resources
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.Cache
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\VS-C#\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.Cache
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.cache
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CopyComplete
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.LoginForm.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.NewUserForm.resources
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Google.Protobuf.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.xml
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.xml
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.dll
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.xml
+D:\Zahara project\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojAssemblyReference.cache
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Google.Protobuf.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.xml
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.xml
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.xml
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojAssemblyReference.cache
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.LoginForm.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.NewUserForm.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.cache
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CopyComplete
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+C:\Users\951535892\Desktop\SimpleMediaPlayer\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojResolveAssemblyReference.cache
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.LoginForm.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.NewUserForm.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.cache
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.xml
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.xml
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.xml
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\SimpleMediePlayer\新建文件夹\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CopyComplete
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\taglib-sharp.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\CSharp.Odbc.xml
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.xml
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\MySql.Data.xml
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.Shell32.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csprojResolveAssemblyReference.cache
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.Shell32.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.DeleteSongFormList.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.LoginForm.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.mainForm.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.NewUserForm.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.SongInfoDetailForm.resources
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.cache
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CopyComplete
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+F:\音阙诗听\SimpleMediePlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb

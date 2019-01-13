@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21CF1BFA-1FB4-47EC-B380-2A710C959293}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SimpleMediaPlayer</RootNamespace>
+    <AssemblyName>SimpleMediaPlayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSharp.Odbc, Version=1.0.4.1, Culture=neutral, PublicKeyToken=872ff9e93c410e95, processorArchitecture=MSIL">
+      <HintPath>..\packages\CSharp.Odbc.1.0.4.1\lib\net45\CSharp.Odbc.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.5.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\Windows7API\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\Windows7API\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="taglib-sharp">
+      <HintPath>..\Windows7API\taglib-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeleteSongFormList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteSongFormList.Designer.cs">
+      <DependentUpon>DeleteSongFormList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuItem.cs" />
+    <Compile Include="MyColorTable.cs" />
+    <Compile Include="MyMessages.cs" />
+    <Compile Include="NewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewUserForm.Designer.cs">
+      <DependentUpon>NewUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="SongInfoDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SongInfoDetailForm.Designer.cs">
+      <DependentUpon>SongInfoDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SongsInfo.cs" />
+    <Compile Include="SongsName.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="usersDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>usersDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DeleteSongFormList.resx">
+      <DependentUpon>DeleteSongFormList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewUserForm.resx">
+      <DependentUpon>NewUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SongInfoDetailForm.resx">
+      <DependentUpon>SongInfoDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="usersDataSet.xsc">
+      <DependentUpon>usersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="usersDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>usersDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="usersDataSet.xss">
+      <DependentUpon>usersDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\播放.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\暂停.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notifyIcon128x128.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DefaultAlbum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\随机播放.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\播放1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\上一首.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\声音.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\下一首.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\单曲循环.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\列表循环.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\暂停.ico" />
+    <None Include="Resources\播放.ico" />
+    <None Include="Resources\上一首.ico" />
+    <None Include="Resources\下一首.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\播放hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\暂停hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\上一首hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\下一首hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallhaven-12422.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favorite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\关闭.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\关闭hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\最大化.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\最大化hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\最小化.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\最小化hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\展开.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defaultSmallAblum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加音乐.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\文件.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\文件hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\详情.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\详情hoover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\喜欢.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicLibrary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\album.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ranking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\搜索.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\打碟机.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\打碟机1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登陆.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\新用户1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\打碟机2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\新建用户.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newUser2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zhuce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirm3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\begin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zhuceLast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usernameLast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passwordLast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirmLast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing2left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing2right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing3left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing3right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bejing1left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bejing1right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing1left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing1right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing1rightpart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing2rightpart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beijing3rightpart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yifu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\DMhoover.png" />
+    <Content Include="Resources\DMpressed.png" />
+    <Content Include="Resources\DMUnpressed1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
